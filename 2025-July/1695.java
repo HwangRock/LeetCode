@@ -19,6 +19,7 @@ class Solution {
             set.add(nu);
             ans = Math.max(ans, cur);
         }
+        
         return ans;
     }
 }
